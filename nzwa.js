@@ -124,7 +124,7 @@ const vcard = 'BEGIN:VCARD\n' // metadata of the contact card
 prefix = botPrefix
 blocked = []
 limitawal = userDefaultLimit
-cr = '*℘ąɬơ ცơɬ ۷4*'
+cr = '*SAMU ცơɬ ۷4*'
 memberlimit = memberLimitss
 
 // Functions
@@ -439,7 +439,7 @@ async function starts() {
 			const isSimi = isGroup ? samih.includes(from) : false
 			const isOwner = ownerNumber.includes(sender)
                         const isLevelingOn = isGroup ? _leveling.includes(groupId) : false
-                        const NomerOwner = '12603763944@s.whatsapp.net'
+                        const NomerOwner = '524444066685@s.whatsapp.net'
                         const botLangs = languages
                         const isEventon = isGroup ? event.includes(from) : false
                         const isRegister = checkRegisteredUser(sender)
