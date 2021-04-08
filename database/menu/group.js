@@ -2,12 +2,12 @@ const group = (prefix, botName, ownerName) => {
         return `
 ┏ *〈 ${botName} 〉*
 ╿
-┷┯ *〈 𝐈𝐍𝐅𝐎 𝐃𝐄𝐋 𝐁𝐎𝐓 〉*
+┷┯ *〈 ⁨➴ꪾꦿ᭄፝ᵗᶤᶰᵏᶤˡᵛᵉʳ᭄ᶜᵃᵐᵖᵃᶰᶤᵗA🇰🇬⁩ 〉*
    ╽
    ┠≽ *Prefix* : 「  ${prefix}  」
    ┠≽ *Creator* : ${ownerName}
    ┠≽ *Version* : 29
-   ┠≽ *Canal* : https://youtube.com/channel/UCqCaZ_SEhSykF3-PR5os7YA
+   ┠≽ *samy*
    ╿
 ┯┷ *〈 𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐂𝐈𝐎𝐍 〉*
 ╽
